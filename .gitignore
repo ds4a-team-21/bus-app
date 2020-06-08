@@ -1,0 +1,12 @@
+venv
+.ipynb_checkpoints
+.idea
+.idea/workspace.xml
+__pycache__
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+.ebextensions
+utils/__pycache__
+.ebignore
